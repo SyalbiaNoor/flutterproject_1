@@ -9,6 +9,8 @@ This application allows users to control and manage their daily habit and to rem
 - Warning if user skipped a routine
 - Real-time date and time
 
+Video link:
+
 Screeshots:
 
 ![image](https://github.com/user-attachments/assets/4e3e8005-8c57-498d-816b-832c9d21963b)
