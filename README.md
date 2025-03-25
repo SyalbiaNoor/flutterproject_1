@@ -22,3 +22,5 @@ Screeshots:
 ![image](https://github.com/user-attachments/assets/0ee77f26-98a7-4199-b1be-b1b9c42e9a91)
 
 ![image](https://github.com/user-attachments/assets/cdb67add-b8d0-4b7f-9bdb-78168ca13de4)
+
+This project is made with the help of ChatGPT, W3Schools sources, and some Youtube sources
