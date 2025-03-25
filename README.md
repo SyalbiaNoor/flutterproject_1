@@ -1,6 +1,6 @@
-# Habit Tracker App
+# My Habit Tracker
 
-This application allows users to control and manage their daily habit and to remind them not to skipped them. There are several features in this application:
+This application's CRUD allows users to control and manage their daily habit and to remind them not to skipped them. There are several features in this application's CRUD:
 
 - Add routine
 - Checklist/unchecklist routine
@@ -9,9 +9,9 @@ This application allows users to control and manage their daily habit and to rem
 - Warning if user skipped a routine
 - Real-time date and time
 
-Video link:
+Link to app demo video: https://youtu.be/GvcTSH64HJE 
 
-Screeshots:
+Screenshots:
 
 ![image](https://github.com/user-attachments/assets/4e3e8005-8c57-498d-816b-832c9d21963b)
 
